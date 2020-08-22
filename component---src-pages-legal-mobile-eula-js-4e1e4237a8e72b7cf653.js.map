@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/legal/mobile-eula.js"],"names":["MobileEULA"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-legal-mobile-eula-js-4e1e4237a8e72b7cf653.js","sourcesContent":["import React from \"react\"\n\nexport default function MobileEULA() {\n  return <div>Coming soon!</div>\n}"],"sourceRoot":""}

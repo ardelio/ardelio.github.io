@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{gpWA:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));var o=e("q1tI"),u=e.n(o);function i(){return u.a.createElement("div",null,"Coming soon!")}}}]);
+//# sourceMappingURL=component---src-pages-games-gnome-mans-land-risen-js-f1575ec0dd3f81b93834.js.map

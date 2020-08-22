@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/legal/index.js"],"names":["Legal"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-legal-index-js-7fd8a6736c6fd23430d5.js","sourcesContent":["import React from \"react\"\n\nexport default function Legal() {\n  return <div>Coming soon!</div>\n}"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{e4xB:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return i}));var o=t("q1tI"),u=t.n(o);function i(){return u.a.createElement("div",null,"Coming soon!")}}}]);
+//# sourceMappingURL=component---src-pages-legal-privacy-policy-js-49211a2e1f7a5ffcb895.js.map

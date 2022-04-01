@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-index-js",
+    "path": "/blog/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"306cd2eb-d881-59b0-8043-00e3a0a59d80","excerpt":"","frontmatter":{"date":"May 04, 2019","slug":"/blog/my-first-post","title":"My first blog post"}}}]}},"pageContext":{}},
+    "staticQueryHashes": []}

@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-index-js-43d266cb4f2fa4c5a25c.js","mappings":"sLAEe,SAASA,IACtB,OAAO","sources":["webpack://ardelio.github.io/./src/pages/index.js"],"sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>Coming soon!</div>\n}\n"],"names":["Home"],"sourceRoot":""}

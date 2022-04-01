@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-legal-mobile-eula-js-4f18d520785fbb099d77.js","mappings":"sLAEe,SAASA,IACtB,OAAO","sources":["webpack://ardelio.github.io/./src/pages/legal/mobile-eula.js"],"sourcesContent":["import React from \"react\"\n\nexport default function MobileEULA() {\n  return <div>Coming soon!</div>\n}"],"names":["MobileEULA"],"sourceRoot":""}

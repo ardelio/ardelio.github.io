@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkardelio_github_io=self.webpackChunkardelio_github_io||[]).push([[684],{2165:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});var i=u(7294);function t(){return i.createElement("div",null,"Coming soon!")}}}]);
+//# sourceMappingURL=component---src-pages-games-gnome-mans-land-risen-js-d4334b30a132e863fafb.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkardelio_github_io=self.webpackChunkardelio_github_io||[]).push([[678],{6558:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});var i=u(7294);function t(){return i.createElement("div",null,"Coming soon!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-43d266cb4f2fa4c5a25c.js.map

@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/legal/privacy-policy.js"],"names":["PrivacyPolicy"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-legal-privacy-policy-js-49211a2e1f7a5ffcb895.js","sourcesContent":["import React from \"react\"\n\nexport default function PrivacyPolicy() {\n  return <div>Coming soon!</div>\n}"],"sourceRoot":""}

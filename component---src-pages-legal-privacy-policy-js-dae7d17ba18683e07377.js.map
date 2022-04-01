@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-legal-privacy-policy-js-dae7d17ba18683e07377.js","mappings":"sLAEe,SAASA,IACtB,OAAO","sources":["webpack://ardelio.github.io/./src/pages/legal/privacy-policy.js"],"sourcesContent":["import React from \"react\"\n\nexport default function PrivacyPolicy() {\n  return <div>Coming soon!</div>\n}"],"names":["PrivacyPolicy"],"sourceRoot":""}

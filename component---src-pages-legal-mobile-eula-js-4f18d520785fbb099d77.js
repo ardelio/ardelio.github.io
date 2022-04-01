@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkardelio_github_io=self.webpackChunkardelio_github_io||[]).push([[267],{6952:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});var i=u(7294);function t(){return i.createElement("div",null,"Coming soon!")}}}]);
+//# sourceMappingURL=component---src-pages-legal-mobile-eula-js-4f18d520785fbb099d77.js.map

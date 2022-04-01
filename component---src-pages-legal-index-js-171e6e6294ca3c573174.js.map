@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-legal-index-js-171e6e6294ca3c573174.js","mappings":"sLAEe,SAASA,IACtB,OAAO","sources":["webpack://ardelio.github.io/./src/pages/legal/index.js"],"sourcesContent":["import React from \"react\"\n\nexport default function Legal() {\n  return <div>Coming soon!</div>\n}"],"names":["Legal"],"sourceRoot":""}

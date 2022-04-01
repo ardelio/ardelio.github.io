@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{h9V0:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));var o=e("q1tI"),u=e.n(o);function i(){return u.a.createElement("div",null,"Coming soon!")}}}]);
-//# sourceMappingURL=component---src-pages-legal-mobile-eula-js-4e1e4237a8e72b7cf653.js.map

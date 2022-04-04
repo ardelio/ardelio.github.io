@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/apples",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"3a91025b-fab2-50ac-b080-9db22d74e38b","frontmatter":{"title":"My second blog post","slug":"/blog/my-second-post","date":"2019-05-05","featuredImageAlt":"My avatar"}}}]}},"pageContext":{"tag":"apples"}},
+    "staticQueryHashes": []}

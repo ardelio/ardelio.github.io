@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/unity",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"306cd2eb-d881-59b0-8043-00e3a0a59d80","frontmatter":{"title":"My first blog post","slug":"/blog/my-first-post","date":"2019-05-04","featuredImageAlt":"My avatar"}}}]}},"pageContext":{"tag":"unity"}},
+    "staticQueryHashes": []}

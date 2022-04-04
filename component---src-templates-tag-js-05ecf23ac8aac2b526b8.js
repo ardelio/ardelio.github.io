@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkardelio_github_io=self.webpackChunkardelio_github_io||[]).push([[969],{3450:function(e,t,u){u.r(t),u.d(t,{default:function(){return i}});var n=u(7294),a=u(9211);function i(e){e.data;return n.createElement(a.Z,null,"Template")}}}]);
+//# sourceMappingURL=component---src-templates-tag-js-05ecf23ac8aac2b526b8.js.map
